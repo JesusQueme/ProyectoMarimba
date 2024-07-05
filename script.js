@@ -47,7 +47,7 @@ ScrollReveal().reveal('.home-content p, .acercade-content', {origin:'right'});
 
 /* typed text*/
 const typed = new Typed('.multiple-text',{
-    strings: ['Desarrollador Frontend','Estudiante','Músico'],
+    strings: ['Bodas','Cumpleaños','Todo tipo de eventos'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
